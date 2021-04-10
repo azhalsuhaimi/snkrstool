@@ -1,4 +1,3 @@
-"# cosmoschefsbot" 
-"#cosmoschefsbot" 
 # cosmoschefsbot
-# cosmoschefsbot
+# snkrs-bot
+# snkrstool
